@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 059f8cbdd3c939f4c806eeff926fe786
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - waypoints: {instanceID: 0}
+  - bullet: {fileID: 5199292927362090233, guid: 98075e5bf83d1814984d91c0cec8fabe, type: 3}
+  - bulletSpawn: {instanceID: 0}
+  - partToRotate: {instanceID: 0}
+  - targetPlayer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
